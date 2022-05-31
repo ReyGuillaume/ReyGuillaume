@@ -12,13 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Je m'appelle <strong>Guillaume Rey</strong>, actuellement étudiant en licence de mathématiques et informatique à l'université Savoie Mont Blanc, je n'ai pour l'instant que les bases du développement web.</p>
-<p>Motivé et passionné, je suis à la recherche de premières missions pour étoffer mon expérience. N'hésitez pas à me contacter !</p>
+<p>Je m'appelle <strong>Guillaume Rey</strong>, actuellement étudiant en licence d'informatique à l'université Savoie Mont Blanc, je recherche des missions de développeur pour augmenter mon expérience et acquérir de nouvelles connaissances.</p>
+<p>Motivé et passionné, je m'adapte facilement à de nouveaux langages et technologies. Donc n'hésite pas à me contacter !</p>
 
 <ul>
-  <li><a href='https://www.malt.fr/profile/guillaumerey?overview=true'>Mon profil Malt</a><br></li>
-  <li><a href='https://www.linkedin.com/in/guillaume-rey-190822231'>Mon profil Linkdin</a><br></li>
+  <li><a href='https://www.malt.fr/profile/guillaumerey?overview=true'>Mon profil Malt</a></li><br>
+  <li><a href='https://www.linkedin.com/in/guillaume-rey-190822231'>Mon profil Linkdin</a></li><br>
   <li>Mail : grey02@orange.fr</li>
 </ul>
 
-<p>Développement <strong>front end</strong>, HTML5, CSS3, JavaScript, PHP et MySQL.</p>
+<p>Nous avons créé un livre de recette en ligne avec des amis, jetez y un oeil pour avoir un apperçu de mon travail.</p>
+<ul>
+  <li><a href='plaisir-culinaire.fr'>Plaisir Culinaire</a></li>
+</ul>
