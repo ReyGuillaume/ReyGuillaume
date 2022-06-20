@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <p>Nous avons créé un livre de recette en ligne avec des collègues, jetez y un oeil pour avoir un apperçu de mon travail.</p>
 <ul>
-  <li><a href='plaisir-culinaire.fr'>Plaisir Culinaire</a></li>
+  <li><a href='https://www.plaisir-culinaire.fr'>Plaisir Culinaire</a></li>
 </ul>
