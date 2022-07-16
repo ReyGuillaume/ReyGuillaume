@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 <p>Motivé et passionné, je m'adapte facilement à de nouveaux langages et technologies. Donc n'hésite pas à me contacter !</p>
 
 <ul>
-  <li><a href='https://www.malt.fr/profile/guillaumerey?overview=true'>Mon profil Malt</a></li><br>
-  <li><a href='https://www.linkedin.com/in/guillaume-rey-190822231'>Mon profil Linkdin</a></li><br>
+  <li><a href='https://www.linkedin.com/in/guillaume-rey-190822231'>Mon profil Linkdin</a></li>
+  <li><a href='https://www.malt.fr/profile/guillaumerey?overview=true'>Mon profil Malt</a></li>
+  <li><a href='https://www.malt.fr/profile/guillaumerey?overview=true'>Mon profil Malt</a></li>
   <li>Mail : grey02@orange.fr</li>
 </ul>
 
