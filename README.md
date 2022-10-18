@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Je m'appelle <strong>Guillaume Rey</strong>, actuellement étudiant en licence d'informatique à l'université Savoie Mont Blanc, je recherche des missions en tant que freelance pour augmenter mon expérience et acquérir de nouvelles connaissances.</p>
+<p>Je m'appelle <strong>Guillaume Rey</strong>, actuellement étudiant en licence d'informatique à l'université Savoie Mont Blanc, je recherche des missions en tant que dévloppeur freelance pour augmenter mon expérience et acquérir de nouvelles connaissances.</p>
 <p>Motivé et passionné, je m'adapte facilement à de nouveaux langages et technologies. Donc n'hésite pas à me contacter !</p>
 
 <ul>
