@@ -18,7 +18,10 @@
   <li>Mail : grey02@orange.fr</li>
 </ul>
 
+<br>
+
 <p>J'ai également participé à la création de ce livre de cuisine en ligne, jetez y un oeil pour avoir un apperçu de mon travail.</p>
+
 <ul>
   <li><a href='https://www.plaisir-culinaire.fr'>Plaisir Culinaire</a></li>
 </ul>
