@@ -1,4 +1,4 @@
-<h2>Moi c'est <strong>Guillaume Rey</strong> 😉</h2>
+<h2>Hello, moi c'est <strong>Guillaume Rey</strong> 😉</h2>
 
 <h3>Je suis un dev Front-end JavaScript spécialisé sur <strong>ReactJs</strong></h3>
 
